@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+    <rect width="400" height="560" fill="#e8eaed"/>
+    <rect x="70" y="110" width="260" height="300" rx="10" fill="#c9cdd3"/>
+    <text x="200" y="455" text-anchor="middle" font-family="Arial" font-size="24" fill="#5f6368">
+        Book Cover
+    </text>
+</svg>

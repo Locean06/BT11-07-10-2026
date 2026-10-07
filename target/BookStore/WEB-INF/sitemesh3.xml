@@ -1,0 +1,19 @@
+<sitemesh>
+
+    <mapping
+        path="/assets/*"
+        exclude="true"/>
+
+    <mapping
+        path="/book-image/*"
+        exclude="true"/>
+
+    <mapping
+        path="/admin/*"
+        decorator="/decorators/admin.jsp"/>
+
+    <mapping
+        path="/*"
+        decorator="/decorators/user.jsp"/>
+
+</sitemesh>
